@@ -1,0 +1,11 @@
+p{
+    color:blue;
+}
+
+p.large-text{
+    font-size:30px;
+}
+
+.div-two h2{
+    color:red;
+}
